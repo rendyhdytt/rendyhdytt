@@ -13,7 +13,7 @@
 <br>
 
 <p>
-<div style="display: flex; align-items: center;">
+<div>
   <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
 </div>
