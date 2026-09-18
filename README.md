@@ -30,7 +30,7 @@
 <br>
 
 ### 📬 Media Sosial Saya 
-<p align="center">
+<p align="">
   <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
 </p>
 About Me
