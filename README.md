@@ -48,10 +48,6 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="100%" alt="Stardew Valley Banner"/>
-</p>
-
 <img src="https://giphy.com/gifs/05MwAIocXUUr1BTa0K" width=""/><p align="center">
 About Me
 
