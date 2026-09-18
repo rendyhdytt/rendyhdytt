@@ -18,9 +18,10 @@
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358191417397249/825430589581688872/hi.gif">
 </div>
 
+
 <p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="center"/> 
-  <b><i>Tecnologias em aprendizado</i></b> |
+  <img src="https://media.tenor.com/images/1381395b2823b1853db5e4d28430b05b/tenor.gif" width="50" align="center"/> 
+  <b><i>Pelican Town Community</i></b> |
 </p>
 
 <div>
