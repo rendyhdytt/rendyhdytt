@@ -20,7 +20,7 @@
 
 
 <p>
-  <img src="https://media.tenor.com/images/1381395b2823b1853db5e4d28430b05b/tenor.gif" width="50" align="center"/> 
+  <img src="https://media.tenor.com/images/1381395b2823b1853db5e4d28430b05b/tenor.gif" width="10" align="center"/> 
   <b><i>Pelican Town Community</i></b> |
 </p>
 
