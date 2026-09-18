@@ -39,7 +39,9 @@ About Me
 <p align="">
   <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
 </p>
-###📬 Media Sosial Saya 
+
+<h3>📬 Media Sosial Saya</h3> 
+
 <p>
   <a href="https://www.facebook.com/profile.php?id=100054570620702&sk=reels_tab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
