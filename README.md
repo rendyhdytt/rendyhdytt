@@ -10,14 +10,17 @@
 - ⚡ **Fun fact:** *Lebih baik hari esok dari pada esok*
 - 😄 **Pronouns:** Selalu HAPPY
 
-<br>
 
-<div>
+
+<p>
   <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
-</div>
+  
+</p>
 
 
+
+<p>
   <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
