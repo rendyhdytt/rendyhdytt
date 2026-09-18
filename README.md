@@ -19,7 +19,10 @@
 </div>
 
 ##
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/l41K3o5TzM4pnpXoY/giphy.gif" width="400" alt="Stardew Valley Dancing Villagers Animated GIF"/>
+</p>
+
 <div>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
