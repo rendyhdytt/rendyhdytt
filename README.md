@@ -20,7 +20,7 @@
 
 ##
 <p align="center">
-  <img src="https://media.giphy.com/media/l41K3o5TzM4pnpXoY/giphy.gif" width="100" alt="Stardew Valley Dancing Villagers Animated GIF"/>
+  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="450" alt="Stardew Valley Town"/>
 </p>
 
 <div>
