@@ -48,7 +48,10 @@
 
 
 
-<img src="https://giphy.com/gifs/05MwAIocXUUr1BTa0K" width=""/><p align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
+</p>
+
 About Me
 
 - 🌾 Welcome to my GitHub farm!
