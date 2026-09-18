@@ -3,11 +3,9 @@
 
 - 🎓 I’m currently studying Computer Science at Universitas Sriwijaya [CLOUD MENGGUNAKAN INDUSTRIAL INTERNET OF THINGS GATEWAY BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
 
-- 📫 Email Me **hidayathrendi@gmail.com*
-
-- ⚡ Fun fact *Lebih baik untuk hari esok*
+- ⚡ Fun fact *Lebih baik hari esok dari pada esok*
   
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Selalu HAPPY
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
@@ -50,4 +48,3 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rndyhdytt/output/github-contribution-grid-snake.svg)
