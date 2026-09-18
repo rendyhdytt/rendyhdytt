@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="400" alt="Stardew Valley Town"/>
 </p>
 
+  <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
+  
 - 🎓 **Education:** Computer Engineering Graduate from Universitas Sriwijaya
 - 📌 **Final Project:** [Implementasi Dashboard Monitoring Suhu dan Kelembapan IoT Gateway BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
 - ⚡ **Fun fact:** *Lebih baik hari esok dari pada esok*
@@ -13,9 +15,7 @@
 
 
 <p>
-  <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b>
-  
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
 </p>
 
 
