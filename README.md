@@ -16,6 +16,11 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"/>
 </p>
 
+About Me
+
+- 🌾 Welcome my Sosial media
+- 💻 Saya masih belajar dan terus belajar
+
 <p>
   <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,15 +34,12 @@
 
 <br>
 
-### 📬 Media Sosial Saya 
+
+
 <p align="">
   <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
 </p>
-About Me
-
-- 🌾 Welcome my Sosial media
-- 💻 Saya masih belajar dan terus belajar
-
+### 📬 Media Sosial Saya 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100054570620702&sk=reels_tab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
