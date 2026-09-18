@@ -13,8 +13,8 @@
 <br>
 
 <p>
-  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="40" align="center" alt="Stardew Icon"/> 
-  <b><i>Tecnologias em aprendizado</i></b>
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center"
+                                                                               
 </p>
 
 <p>
