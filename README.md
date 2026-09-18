@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rendi Hidayat</h1>
+<h1 align="center">Perkenalan👋, Nama Saya Rendi Hidayat Senang Berkenalan dengan anda</h1>
 <h3 align="center">Computer Engineering Graduate | IT Support | Networking | Linux</h3>
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
   
 - 🎓 **Education:** Computer Engineering Graduate from Universitas Sriwijaya
-- 📌 **Final Project:** [Implementasi Dashboard Monitoring Suhu dan Kelembapan IoT Gateway BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
-- ⚡ **Fun fact:** *Lebih baik hari esok dari pada esok*
-- 😄 **Pronouns:** Selalu HAPPY
+- 📌 **Project Terakhir** [Implementasi Dashboard Monitoring Suhu dan Kelembapan IoT Gateway BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
+- ⚡ **Fun Fact** *Lebih baik hari esok dari pada kemarin*
+- 😄 **Pronouns:** Walau dunia keras, saya harus menyesuaikan keras juga
 
 
 
@@ -31,7 +31,7 @@
 
 <br>
 
-### 📬 Connect with Me
+### 📬 Media Sosial Saya 
 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="bottom">
 <p>
   <a href="https://www.facebook.com/profile.php?id=100054570620702&sk=reels_tab" target="_blank">
