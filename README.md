@@ -18,9 +18,9 @@
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358191417397249/825430589581688872/hi.gif">
 </div>
 
-##
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="450" alt="Stardew Valley Town"/>
+<p>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="center"/> 
+  <b><i>Tecnologias em aprendizado</i></b> |
 </p>
 
 <div>
