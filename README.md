@@ -1,53 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rendi Hidayat</h1>
-<h3 align="center">Computer Engineering Graduate | IT Support | Networking | | Linux</h3>
+<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
-- 🎓 I’m currently studying Computer Science at Universitas Sriwijaya [CLOUD MENGGUNAKAN INDUSTRIAL INTERNET OF THINGS GATEWAY BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
+<p align="center">
+  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 📫 Email Me **hidayathrendi@gmail.com**
 
-- ⚡ Fun fact **Lebih baik untuk hari esok**
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
+
+<br>
   
-- 😄 Pronouns: ela/dela
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
 
-<div>
-  <a href="https://beacons.ai/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+<div align="center">
+  <a href="https://github.com/krisnarane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358191417397249/825430589581688872/hi.gif">
-</div>
+<br>
+<br>
 
-##
+- 📫 Contato: **jkrisnarane@gmail.com**
 
-<div>
-  <a href="https://www.youtube.com/RafaellaBallerini" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/rafaballerini" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/G9GPp5SA75" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:contato@rafaballerini.tech">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-![Snake animation](https://github.com/rafaballerini/rndyhdytt/output/github-contribution-grid-snake.svg)
+<p align="center"> 
