@@ -2,9 +2,7 @@
 <h3 align="center">Computer Engineering Graduate | IT Support | Networking | Linux</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="400" alt="Stardew Valley Town"/>
-</p>
-  
+
 - 🎓 **University** Computer Engineering Graduate 
 - 🏫 **Senior High School** SMA IT Raudhatul Ulum Sakatiga Inderalaya
 - 🏫 **Junior High School** Pesantren Nurul Qomar Palembang
