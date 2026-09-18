@@ -13,7 +13,10 @@
 <br>
 
 <p>
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center" </p> <p><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center"  </p>
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/7j2hfyeVcdTf2/giphy.gif" width="50">
+</div>
 
 <p>
   <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
