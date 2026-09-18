@@ -5,9 +5,11 @@
   <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="400" alt="Stardew Valley Town"/>
 </p>
   
-- 🎓 **Education:** Computer Engineering Graduate from Universitas Sriwijaya
-- 📌 **Project Terakhir** [Implementasi Dashboard Monitoring Suhu dan Kelembapan IoT Gateway BL100](https://github.com/rendyhdytt/TUGAS-AKHIR-Implementasi-Dashboard-Monitoring-Suhu-dan-Kelembapan-IoT-Gateway-BL100/issues/1)
-- ⚡ **Fun Fact** *Lebih baik hari esok dari pada kemarin*
+- 🎓 **University** Computer Engineering Graduate 
+- 🏫 **Senior High School** SMA IT Raudhatul Ulum Sakatiga Inderalaya
+- 🏫 **Junior High School** Pesantren Nurul Qomar Palembang
+- 🏫 **Elementary School** SDN 110
+- ⚡ **Fun Fact** *Lebih baik hari ini dari pada kemarin*
 - 😄 **Pronouns:** Walau dunia keras, saya harus menyesuaikan keras juga
 
 
@@ -18,8 +20,8 @@
 
 About Me
 
-- 🌾 Welcome my Sosial media
-- 💻 Saya masih belajar dan terus belajar
+- 🌾 Saya Suka Bermain Game Stardew Valley
+- 💻 Saya Masih Belajar Dan Terus Belajar
 
 <p>
   <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
