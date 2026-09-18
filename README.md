@@ -30,7 +30,14 @@
 <br>
 
 ### 📬 Media Sosial Saya 
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="100"/><p align="bottom">
+<p align="center">
+  <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
+</p>
+About Me
+
+- 🌾 Welcome my Sosial media
+- 💻 Saya masih belajar dan terus belajar
+
 <p>
   <a href="https://www.facebook.com/profile.php?id=100054570620702&sk=reels_tab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -48,11 +55,4 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/05MwAIocXUUr1BTa0K/giphy.gif" width="300" alt="Stardew Valley Animation"/>
-</p>
 
-About Me
-
-- 🌾 Welcome to my GitHub farm!
-- 💻 Tech Stack & Tools ...
