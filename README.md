@@ -45,3 +45,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abice/stardew-valley-data/master/assets/town.gif" width="100%" alt="Stardew Valley Banner"/>
+</p>
+
+## <img src="https://media.tenor.com/images/05f24213d2a71f8ef6bc5db2ef401b38/tenor.gif" width="30" align="center"/> About Me
+
+- 🌾 Welcome to my GitHub farm!
+- 💻 Tech Stack & Tools ...
